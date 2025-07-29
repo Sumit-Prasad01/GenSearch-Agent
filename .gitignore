@@ -137,4 +137,4 @@ cython_debug/
 # VS Code settings
 .vscode/
 
-seach-env
+search_env
